@@ -1,0 +1,94 @@
+#welcome_text{
+    padding-left: 140px;
+}
+#pb_logo{
+    padding-left: 100px;
+}
+#welcome_text{
+    margin-bottom: 0;
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 700;
+    font-family: 'proxima-nova','Arial CE','Arial','sans-serif';
+}
+.googleBtn{
+    background-color: white;
+    padding: 15px 118px;
+    margin-left: 130px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    text-transform: none;
+    border: 1px solid rgb(225, 230, 234);
+    color: rgb(104, 112, 123);
+    background-color: rgba(0, 0, 0, 0);
+}
+#input_region{
+    padding-left: 130px;
+    padding-right: 1295px;
+    font-family: 'proxima-nova','Arial CE','Arial','sans-serif';
+    color: #acb6bf;
+    font-weight: 700;
+    font-size: 12px;
+    
+}
+#email_line{
+    border-bottom: 1.5px solid #acb6bf;
+    height: 0.65em;
+    text-align: center;
+    line-height: 20px;
+    
+}
+span{
+    color: #acb6bf;
+    display: inline-block;
+    margin: 0 auto;
+    background: white;
+    padding: 0 15px;
+    font-weight: 700;
+    font-size: 12px;
+}
+#email{
+    width: 400px;
+    height: 44px;
+    border-radius: 2px;
+    border: 1px solid #d4dbe1;
+}
+#password{
+    width: 400px;
+    height: 44px;
+    border-radius: 2px;
+    border: 1px solid #d4dbe1;
+}
+#forgot_password{
+    padding-left: 195px;
+    color: #acb6bf;
+}
+#submit{
+    width: 400px;
+    height: 44px;
+    background-color:#2693ff;
+    color: white;
+    font-family: 'proxima-nova','Arial CE','Arial','sans-serif';
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 4px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+::placeholder{
+    color: lightgray;
+    text-align: left;
+    font-family: 'proxima-nova','Arial CE','Arial','sans-serif';
+    font-weight: 700;
+    font-size: 12px;
+}
+.fa-google {
+    background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+  }
+
